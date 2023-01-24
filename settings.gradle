@@ -16,3 +16,4 @@ dependencyResolutionManagement {
 rootProject.name = "library7"
 include ':app'
 include ':Toasty'
+include ':tasty'
